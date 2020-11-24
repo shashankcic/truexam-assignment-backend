@@ -15,5 +15,14 @@
     "nodemon": "^2.0.6",
     "slugify": "^1.4.6",
     "validator": "^13.1.17"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "12.18.4",
+    "yarn": "1.22.5",
+    "npm": "6.14.6"
   }
 }
